@@ -1,0 +1,23 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview"
+  },
+  "devDependencies": {
+    "@nuxtjs/localforage": "^1.1.0",
+    "nuxt": "3.0.0-rc.3",
+    "sass": "^1.52.1"
+  },
+  "dependencies": {
+    "@inkline/inkline": "^3.0.8",
+    "@inkline/nuxt": "^3.1.0",
+    "@nuxtjs/proxy": "^2.1.0",
+    "@pinia/nuxt": "^0.1.9",
+    "dexie": "^3.2.2",
+    "pinia": "^2.0.14",
+    "xlsx": "^0.18.5"
+  }
+}
